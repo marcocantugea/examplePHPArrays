@@ -1,0 +1,4194 @@
+Lsita de apellidos repetidosEl apellido HERNANDEZ esta 10 veces repetido
+El apellido MARTINEZ esta 10 veces repetido
+El apellido RAMIREZ esta 7 veces repetido
+El apellido RODRIGUEZ esta 6 veces repetido
+El apellido GARCIA esta 6 veces repetido
+El apellido SANCHEZ esta 6 veces repetido
+El apellido JIMENEZ esta 5 veces repetido
+El apellido LOPEZ esta 5 veces repetido
+El apellido TORRES esta 5 veces repetido
+El apellido PEREZ esta 5 veces repetido
+El apellido GONZALEZ esta 4 veces repetido
+El apellido ORTIZ esta 3 veces repetido
+El apellido HERRERA esta 3 veces repetido
+El apellido DE LA FUENTE esta 3 veces repetido
+El apellido DIAZ esta 3 veces repetido
+El apellido CONTRERAS esta 3 veces repetido
+El apellido RIVERA esta 3 veces repetido
+El apellido MORALES esta 3 veces repetido
+El apellido SILVA esta 3 veces repetido
+El apellido DOMINGUEZ esta 3 veces repetido
+El apellido GOMEZ esta 2 veces repetido
+El apellido CHAVEZ esta 2 veces repetido
+El apellido PENA esta 2 veces repetido
+El apellido GAMEZ esta 2 veces repetido
+El apellido TREJO esta 2 veces repetido
+El apellido ANAYA esta 2 veces repetido
+El apellido BARRAGAN esta 2 veces repetido
+El apellido TEOBA esta 2 veces repetido
+El apellido CAMPOS esta 2 veces repetido
+El apellido RIVAS esta 2 veces repetido
+El apellido MENDOZA esta 2 veces repetido
+El apellido LEAL esta 2 veces repetido
+El apellido ALEJANDRO esta 2 veces repetido
+El apellido GUZMAN esta 2 veces repetido
+El apellido ORTEGA esta 2 veces repetido
+El apellido FERNANDEZ esta 2 veces repetido
+El apellido BASANEZ esta 2 veces repetido
+El apellido ALVAREZ esta 2 veces repetido
+El apellido CISNEROS esta 2 veces repetido
+El apellido ACOSTA esta 2 veces repetido
+El apellido ZAPATA esta 2 veces repetido
+El apellido SANTOS esta 2 veces repetido
+Personas que tienen el mismo apellido
+Apellido HERNANDEZ ----------
+Array
+(
+    [counter] => 10
+    [0] => Array
+        (
+            [id] => 10010034
+            [nombre] => ADRIAN
+            [apellido] => HERNANDEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009407
+            [nombre] => ERICK  YAIR
+            [apellido] => HERNANDEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009311
+            [nombre] => FRANCISCO JAVIER
+            [apellido] => HERNANDEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009904
+            [nombre] => FREDY
+            [apellido] => HERNANDEZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10009367
+            [nombre] => JESUS
+            [apellido] => HERNANDEZ
+        )
+
+    [5] => Array
+        (
+            [id] => 10010090
+            [nombre] => MARTIN
+            [apellido] => HERNANDEZ
+        )
+
+    [6] => Array
+        (
+            [id] => 10009370
+            [nombre] => MARTIN JESUS
+            [apellido] => HERNANDEZ
+        )
+
+    [7] => Array
+        (
+            [id] => 10009697
+            [nombre] => MIGUEL  ANGEL
+            [apellido] => HERNANDEZ
+        )
+
+    [8] => Array
+        (
+            [id] => 10009484
+            [nombre] => PABLO  PRUDENCIO
+            [apellido] => HERNANDEZ
+        )
+
+    [9] => Array
+        (
+            [id] => 10009620
+            [nombre] => RICARDO
+            [apellido] => HERNANDEZ
+        )
+
+)
+Apellido MARTINEZ ----------
+Array
+(
+    [counter] => 10
+    [0] => Array
+        (
+            [id] => 10009377
+            [nombre] => 	BERTHA   JOSEFINA
+            [apellido] => MARTINEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009317
+            [nombre] => DIEGO CESAR
+            [apellido] => MARTINEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009486
+            [nombre] => EDGAR  EDUARDO
+            [apellido] => MARTINEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009469
+            [nombre] => ELADIO
+            [apellido] => MARTINEZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10010018
+            [nombre] => ERIK ALBERTO
+            [apellido] => MARTINEZ
+        )
+
+    [5] => Array
+        (
+            [id] => 10009421
+            [nombre] => EYMARD
+            [apellido] => MARTINEZ
+        )
+
+    [6] => Array
+        (
+            [id] => 10009906
+            [nombre] => GERARDO
+            [apellido] => MARTINEZ
+        )
+
+    [7] => Array
+        (
+            [id] => 10009910
+            [nombre] => LUIS IGNACIO
+            [apellido] => MARTINEZ
+        )
+
+    [8] => Array
+        (
+            [id] => 10009293
+            [nombre] => SILVERIO
+            [apellido] => MARTINEZ
+        )
+
+    [9] => Array
+        (
+            [id] => 10009355
+            [nombre] => VERONICA RUBI
+            [apellido] => MARTINEZ
+        )
+
+)
+Apellido RAMIREZ ----------
+Array
+(
+    [counter] => 7
+    [0] => Array
+        (
+            [id] => 10009291
+            [nombre] => JERONIMO
+            [apellido] => RAMIREZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009788
+            [nombre] => JOSE  ISRAEL
+            [apellido] => RAMIREZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009832
+            [nombre] => MARCO ARTURO
+            [apellido] => RAMIREZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009354
+            [nombre] => RICARDO
+            [apellido] => RAMIREZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10009425
+            [nombre] => RICARDO  ARTURO
+            [apellido] => RAMIREZ
+        )
+
+    [5] => Array
+        (
+            [id] => 10009289
+            [nombre] => SERGIO BENITO
+            [apellido] => RAMIREZ
+        )
+
+    [6] => Array
+        (
+            [id] => 10009929
+            [nombre] => XICOTENCATL ALFONSO
+            [apellido] => RAMIREZ
+        )
+
+)
+Apellido RODRIGUEZ ----------
+Array
+(
+    [counter] => 6
+    [0] => Array
+        (
+            [id] => 10009912
+            [nombre] => JORGE ALBERTO
+            [apellido] => RODRIGUEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10010009
+            [nombre] => JUAN FRANCISCO
+            [apellido] => RODRIGUEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10010013
+            [nombre] => MARCO ANTONIO
+            [apellido] => RODRIGUEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009465
+            [nombre] => MARIO  ALBERTO
+            [apellido] => RODRIGUEZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10008961
+            [nombre] => MARTHA 
+            [apellido] => RODRIGUEZ
+        )
+
+    [5] => Array
+        (
+            [id] => 10009362
+            [nombre] => MIGUEL  FRANCISCO
+            [apellido] => RODRIGUEZ
+        )
+
+)
+Apellido SANCHEZ ----------
+Array
+(
+    [counter] => 6
+    [0] => Array
+        (
+            [id] => 10009852
+            [nombre] => ALFONSO
+            [apellido] => SANCHEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009260
+            [nombre] => ARRIETA ANDRES
+            [apellido] => SANCHEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009564
+            [nombre] => 	CARLOS  RICARDO
+            [apellido] => SANCHEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009659
+            [nombre] => JULIO  CESAR
+            [apellido] => SANCHEZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10009379
+            [nombre] => MICHEL ALEJANDRO
+            [apellido] => SANCHEZ
+        )
+
+    [5] => Array
+        (
+            [id] => 10010000
+            [nombre] => RODRIGO ALDEBARAN
+            [apellido] => SANCHEZ
+        )
+
+)
+Apellido GARCIA ----------
+Array
+(
+    [counter] => 6
+    [0] => Array
+        (
+            [id] => 10009339
+            [nombre] => HORTENSIA
+            [apellido] => GARCIA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009513
+            [nombre] => LEONARDO
+            [apellido] => GARCIA
+        )
+
+    [2] => Array
+        (
+            [id] => 10009642
+            [nombre] => MIGUEL  ANGEL
+            [apellido] => GARCIA
+        )
+
+    [3] => Array
+        (
+            [id] => 10009680
+            [nombre] => OTILIO
+            [apellido] => GARCIA
+        )
+
+    [4] => Array
+        (
+            [id] => 10009386
+            [nombre] => RAUL
+            [apellido] => GARCIA
+        )
+
+    [5] => Array
+        (
+            [id] => 10009424
+            [nombre] => RICARDO OMAR
+            [apellido] => GARCIA
+        )
+
+)
+Apellido JIMENEZ ----------
+Array
+(
+    [counter] => 5
+    [0] => Array
+        (
+            [id] => 10010035
+            [nombre] => ABEL
+            [apellido] => JIMENEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009613
+            [nombre] => FABIAN  GENOVEVO
+            [apellido] => JIMENEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10010101
+            [nombre] => HECTOR EDUARDO
+            [apellido] => JIMENEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009341
+            [nombre] => JAVIER ALEJANDRO
+            [apellido] => JIMENEZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10009921
+            [nombre] => LUIS MANUEL
+            [apellido] => JIMENEZ
+        )
+
+)
+Apellido LOPEZ ----------
+Array
+(
+    [counter] => 5
+    [0] => Array
+        (
+            [id] => 10009441
+            [nombre] => DAYBER
+            [apellido] => LOPEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009313
+            [nombre] => EDWIN
+            [apellido] => LOPEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009665
+            [nombre] => GERMAN
+            [apellido] => LOPEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009925
+            [nombre] => HORACIO
+            [apellido] => LOPEZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10010069
+            [nombre] => MARIA JOSE
+            [apellido] => LOPEZ
+        )
+
+)
+Apellido TORRES ----------
+Array
+(
+    [counter] => 5
+    [0] => Array
+        (
+            [id] => 10009415
+            [nombre] => 	BRENDA
+            [apellido] => TORRES
+        )
+
+    [1] => Array
+        (
+            [id] => 10009433
+            [nombre] => CRISTHIAN  DANIEL
+            [apellido] => TORRES
+        )
+
+    [2] => Array
+        (
+            [id] => 10009287
+            [nombre] => FIDEL
+            [apellido] => TORRES
+        )
+
+    [3] => Array
+        (
+            [id] => 10009365
+            [nombre] => LUIS  FERNANDO
+            [apellido] => TORRES
+        )
+
+    [4] => Array
+        (
+            [id] => 10009602
+            [nombre] => MARTIN  ARMANDO
+            [apellido] => TORRES
+        )
+
+)
+Apellido PEREZ ----------
+Array
+(
+    [counter] => 5
+    [0] => Array
+        (
+            [id] => 10009358
+            [nombre] => 	AZALEA
+            [apellido] => PEREZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009494
+            [nombre] => JORGE  LUIS
+            [apellido] => PEREZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009307
+            [nombre] => MAURICIO ABRAHAM
+            [apellido] => PEREZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009768
+            [nombre] => MOISES
+            [apellido] => PEREZ
+        )
+
+    [4] => Array
+        (
+            [id] => 10009682
+            [nombre] => URIEL
+            [apellido] => PEREZ
+        )
+
+)
+Apellido GONZALEZ ----------
+Array
+(
+    [counter] => 4
+    [0] => Array
+        (
+            [id] => 10009324
+            [nombre] => JUAN RAUL
+            [apellido] => GONZALEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009422
+            [nombre] => MARTHA MARIA
+            [apellido] => GONZALEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009810
+            [nombre] => NICOLAS  GIUSEPPE
+            [apellido] => GONZALEZ
+        )
+
+    [3] => Array
+        (
+            [id] => 10009978
+            [nombre] => REYNALDO VALDEMAR
+            [apellido] => GONZALEZ
+        )
+
+)
+Apellido CONTRERAS ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10010012
+            [nombre] => JESUS
+            [apellido] => CONTRERAS
+        )
+
+    [1] => Array
+        (
+            [id] => 10009920
+            [nombre] => JUAN DAMIAN
+            [apellido] => CONTRERAS
+        )
+
+    [2] => Array
+        (
+            [id] => 10009388
+            [nombre] => MICHELLE
+            [apellido] => CONTRERAS
+        )
+
+)
+Apellido HERRERA ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009989
+            [nombre] => ARMANDO
+            [apellido] => HERRERA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009338
+            [nombre] => MARIO ALBERTO
+            [apellido] => HERRERA
+        )
+
+    [2] => Array
+        (
+            [id] => 10009318
+            [nombre] => RAFAEL AUGUSTO
+            [apellido] => HERRERA
+        )
+
+)
+Apellido DIAZ ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009966
+            [nombre] => CARLOS JHOAN
+            [apellido] => DIAZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10010128
+            [nombre] => FERNANDO
+            [apellido] => DIAZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009329
+            [nombre] => JOSE MANUEL
+            [apellido] => DIAZ
+        )
+
+)
+Apellido DOMINGUEZ ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009796
+            [nombre] => AMADO
+            [apellido] => DOMINGUEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10010023
+            [nombre] => MARIA DEL ROSARIO
+            [apellido] => DOMINGUEZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009368
+            [nombre] => YADIRA
+            [apellido] => DOMINGUEZ
+        )
+
+)
+Apellido DE LA FUENTE ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009605
+            [nombre] => DANIEL
+            [apellido] => DE LA FUENTE
+        )
+
+    [1] => Array
+        (
+            [id] => 10009418
+            [nombre] => DANIEL  ALEJANDRO
+            [apellido] => DE LA FUENTE
+        )
+
+    [2] => Array
+        (
+            [id] => 10010027
+            [nombre] => JUAN RAMON
+            [apellido] => DE LA FUENTE
+        )
+
+)
+Apellido SILVA ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009557
+            [nombre] => DAVID  CELESTINO
+            [apellido] => SILVA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009297
+            [nombre] => ERNESTO
+            [apellido] => SILVA
+        )
+
+    [2] => Array
+        (
+            [id] => 10009836
+            [nombre] => JESUS LEOBARDO
+            [apellido] => SILVA
+        )
+
+)
+Apellido ORTIZ ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009499
+            [nombre] => EVELIO
+            [apellido] => ORTIZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009282
+            [nombre] => GUADALUPE
+            [apellido] => ORTIZ
+        )
+
+    [2] => Array
+        (
+            [id] => 10009830
+            [nombre] => PEDRO
+            [apellido] => ORTIZ
+        )
+
+)
+Apellido RIVERA ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009439
+            [nombre] => 	BASILIO
+            [apellido] => RIVERA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009861
+            [nombre] => ERNESTO
+            [apellido] => RIVERA
+        )
+
+    [2] => Array
+        (
+            [id] => 10009834
+            [nombre] => JOSE EMILIO
+            [apellido] => RIVERA
+        )
+
+)
+Apellido MORALES ----------
+Array
+(
+    [counter] => 3
+    [0] => Array
+        (
+            [id] => 10009294
+            [nombre] => HECTOR EDUARDO
+            [apellido] => MORALES
+        )
+
+    [1] => Array
+        (
+            [id] => 10009378
+            [nombre] => JOEL
+            [apellido] => MORALES
+        )
+
+    [2] => Array
+        (
+            [id] => 10004112
+            [nombre] => JOSE MANUEL
+            [apellido] => MORALES
+        )
+
+)
+Apellido ORTEGA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009999
+            [nombre] => JOSE ALFREDO
+            [apellido] => ORTEGA
+        )
+
+    [1] => Array
+        (
+            [id] => 10010109
+            [nombre] => JOSE ANGEL
+            [apellido] => ORTEGA
+        )
+
+)
+Apellido CAMPOS ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009974
+            [nombre] => JORGE ARMANDO
+            [apellido] => CAMPOS
+        )
+
+    [1] => Array
+        (
+            [id] => 10009712
+            [nombre] => JUAN  PABLO
+            [apellido] => CAMPOS
+        )
+
+)
+Apellido ACOSTA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009945
+            [nombre] => CARLOS BERSAIN
+            [apellido] => ACOSTA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009818
+            [nombre] => HECTOR
+            [apellido] => ACOSTA
+        )
+
+)
+Apellido ALEJANDRO ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009923
+            [nombre] => JAVIER
+            [apellido] => ALEJANDRO
+        )
+
+    [1] => Array
+        (
+            [id] => 10009299
+            [nombre] => SEBASTIAN
+            [apellido] => ALEJANDRO
+        )
+
+)
+Apellido GAMEZ ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009872
+            [nombre] => ALVARO
+            [apellido] => GAMEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009259
+            [nombre] => MIGUEL GABRIEL
+            [apellido] => GAMEZ
+        )
+
+)
+Apellido PENA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009869
+            [nombre] => DAVID ANTONIO
+            [apellido] => PENA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009831
+            [nombre] => MAURICIO
+            [apellido] => PENA
+        )
+
+)
+Apellido CISNEROS ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009860
+            [nombre] => ERICK
+            [apellido] => CISNEROS
+        )
+
+    [1] => Array
+        (
+            [id] => 10010028
+            [nombre] => JOSE DANIEL
+            [apellido] => CISNEROS
+        )
+
+)
+Apellido ZAPATA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009790
+            [nombre] => ROBERTO
+            [apellido] => ZAPATA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009957
+            [nombre] => SERGIO
+            [apellido] => ZAPATA
+        )
+
+)
+Apellido BARRAGAN ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009732
+            [nombre] => FERNANDO
+            [apellido] => BARRAGAN
+        )
+
+    [1] => Array
+        (
+            [id] => 10009523
+            [nombre] => MARCO ANTONIO
+            [apellido] => BARRAGAN
+        )
+
+)
+Apellido MENDOZA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009664
+            [nombre] => HECTOR  ALEJANDRO
+            [apellido] => MENDOZA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009595
+            [nombre] => RAUL
+            [apellido] => MENDOZA
+        )
+
+)
+Apellido SANTOS ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009648
+            [nombre] => RENE
+            [apellido] => SANTOS
+        )
+
+    [1] => Array
+        (
+            [id] => 10009410
+            [nombre] => ZAIRA MARIBETH
+            [apellido] => SANTOS
+        )
+
+)
+Apellido ANAYA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009647
+            [nombre] => EULISES
+            [apellido] => ANAYA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009438
+            [nombre] => JUAN  PABLO
+            [apellido] => ANAYA
+        )
+
+)
+Apellido GOMEZ ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009590
+            [nombre] => LORENZO DE JESUS
+            [apellido] => GOMEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009850
+            [nombre] => RODOLFO
+            [apellido] => GOMEZ
+        )
+
+)
+Apellido TEOBA ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009496
+            [nombre] => FLAVIO
+            [apellido] => TEOBA
+        )
+
+    [1] => Array
+        (
+            [id] => 10009741
+            [nombre] => SANTIAGO
+            [apellido] => TEOBA
+        )
+
+)
+Apellido BASANEZ ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009419
+            [nombre] => ALAN  EDUARDO
+            [apellido] => BASANEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009823
+            [nombre] => ALONSO
+            [apellido] => BASANEZ
+        )
+
+)
+Apellido ALVAREZ ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009391
+            [nombre] => LEOVARDO
+            [apellido] => ALVAREZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009555
+            [nombre] => OMAR  FRANCISCO
+            [apellido] => ALVAREZ
+        )
+
+)
+Apellido TREJO ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009382
+            [nombre] => EDY  EMANUEL
+            [apellido] => TREJO
+        )
+
+    [1] => Array
+        (
+            [id] => 10009310
+            [nombre] => JORGE
+            [apellido] => TREJO
+        )
+
+)
+Apellido CHAVEZ ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009380
+            [nombre] => DAVID
+            [apellido] => CHAVEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009864
+            [nombre] => ROMAN
+            [apellido] => CHAVEZ
+        )
+
+)
+Apellido LEAL ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009352
+            [nombre] => HOMAR DARIO
+            [apellido] => LEAL
+        )
+
+    [1] => Array
+        (
+            [id] => 10009953
+            [nombre] => JOSE EDUARDO
+            [apellido] => LEAL
+        )
+
+)
+Apellido RIVAS ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009350
+            [nombre] => CUAUHTEMOC HORACIO
+            [apellido] => RIVAS
+        )
+
+    [1] => Array
+        (
+            [id] => 10009363
+            [nombre] => ZULEYMA  DE JESUS
+            [apellido] => RIVAS
+        )
+
+)
+Apellido GUZMAN ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009309
+            [nombre] => JOSE LUIS
+            [apellido] => GUZMAN
+        )
+
+    [1] => Array
+        (
+            [id] => 10010033
+            [nombre] => MANUEL
+            [apellido] => GUZMAN
+        )
+
+)
+Apellido FERNANDEZ ----------
+Array
+(
+    [counter] => 2
+    [0] => Array
+        (
+            [id] => 10009258
+            [nombre] => JOSE ALFREDO
+            [apellido] => FERNANDEZ
+        )
+
+    [1] => Array
+        (
+            [id] => 10009477
+            [nombre] => RICARDO
+            [apellido] => FERNANDEZ
+        )
+
+)
+Apellido LOMELLO ----------
+Apellido MORENO ----------
+Apellido INIGUEZ ----------
+Apellido CERVANTES ----------
+Apellido AVILA ----------
+Apellido MARCIAL ----------
+Apellido PALACIOS ----------
+Apellido SEGURA ----------
+Apellido LUGO ----------
+Apellido DURAN ----------
+Apellido ALDAN ----------
+Apellido LARA ----------
+Apellido PAEZ ----------
+Apellido VAZQUEZ ----------
+Apellido PEREIRA ----------
+Apellido DE PAU ----------
+Apellido TORRECILLA ----------
+Apellido ACUA ----------
+Apellido ALFARO ----------
+Apellido ALMEIDA ----------
+Apellido URQUIZA ----------
+Apellido CARLEBACHE ----------
+Apellido BERISTAIN ----------
+Apellido PESTANA ----------
+Apellido ARTEAGA ----------
+Apellido ITURBE ----------
+Apellido MISS ----------
+Apellido VILLASANA ----------
+Apellido REYES ----------
+Apellido ZAMORANO ----------
+Apellido AGUILAR ----------
+Apellido VERA ----------
+Apellido BURGUENO ----------
+Apellido CAMPOY ----------
+Apellido LEON ----------
+Apellido TRUJILLO ----------
+Apellido TIZNADO ----------
+Apellido REYNA ----------
+Apellido MUNOZ ----------
+Apellido MELO ----------
+Apellido GUTIERREZ ----------
+Apellido CANTU ----------
+Apellido BRANA ----------
+Apellido CANCHE ----------
+Apellido ZAYAGO ----------
+Apellido RONZON ----------
+Apellido MARROQUIN ----------
+Apellido CASANGO ----------
+Apellido BENITEZ ----------
+Apellido BALTAZAR ----------
+Apellido ARANDA ----------
+Apellido IBARRA ----------
+Apellido PARTIDA ----------
+Apellido TAMARIZ ----------
+Apellido TENORIO ----------
+Apellido BURGOS ----------
+Apellido ZUMAYA ----------
+Apellido ROMA ----------
+Apellido MILLAN ----------
+Apellido DEL CARMEN	RIVERO ----------
+Apellido DE LA CRUZ ----------
+Apellido LINDO ----------
+Apellido GARRIDO ----------
+Apellido VELASCO ----------
+Apellido MORA ----------
+Apellido CAMARA ----------
+Apellido PONCE ----------
+Apellido AK ----------
+Apellido BARRIENTOS ----------
+Apellido BALDERAS ----------
+Apellido LEYVA ----------
+Apellido BONFIL ----------
+Apellido ESQUIVEL ----------
+Apellido RICARDEZ ----------
+Apellido NAVARRETE ----------
+Apellido CUEVAS ----------
+Apellido ARIAS ----------
+Apellido BALAN ----------
+Apellido AHUMADA ----------
+Apellido PORTUGAL ----------
+Apellido ESTRADA ----------
+Apellido ROSAS ----------
+Apellido SAUCEDO ----------
+Apellido CANUL ----------
+Apellido LANDA ----------
+Apellido NIEMBRO ----------
+Apellido ESPINDOLA ----------
+Apellido DECUIR ----------
+Apellido VALENCIA ----------
+Apellido CRUZ ----------
+Apellido VALDES ----------
+Apellido GARZA ----------
+Apellido REJON ----------
+Apellido SALAZAR ----------
+Apellido CARAVEO ----------
+Apellido RUIZ ----------
+Apellido MAGANA ----------
+Apellido OLIVEROS ----------
+Apellido PANTOJA ----------
+Apellido CERVERA ----------
+Apellido CORDOVA ----------
+Apellido OCAMPO ----------
+Apellido ARREDONDO ----------
+Apellido DEL CARMEN MENDOZA ----------
+Apellido SANTACRUZ ----------
+Apellido SECCHY ----------
+Apellido SOLIS ----------
+Apellido BERNAL ----------
+Apellido DEL ANGEL ----------
+Apellido GARMENDIA ----------
+Apellido BALLINAS ----------
+Apellido CASTILLO ----------
+Apellido SALAS ----------
+Apellido RIOS ----------
+Apellido CARRILLO ----------
+Apellido ARANGUA ----------
+Apellido PINO ----------
+Apellido MONTOYA ----------
+Apellido VELANDIA ----------
+Apellido SERAPIO ----------
+Apellido AGUIRRE ----------
+Apellido ZACARIAS ----------
+Apellido SOUZA ----------
+Apellido AVENDANO ----------
+Apellido TOLEDO ----------
+Apellido CARRIZALES ----------
+Apellido SANDOVAL ----------
+Apellido ROBLEDO ----------
+Apellido MIRANDA ----------
+Apellido MONTALVO ----------
+Apellido MEJIA ----------
+Apellido RICO ----------
+Apellido MENDEZ ----------
+Apellido FONSECA ----------
+Apellido TAPIA ----------
+Apellido AYALA ----------
+Array
+(
+    [HERNANDEZ] => Array
+        (
+            [counter] => 10
+            [0] => Array
+                (
+                    [id] => 10010034
+                    [nombre] => ADRIAN
+                    [apellido] => HERNANDEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009407
+                    [nombre] => ERICK  YAIR
+                    [apellido] => HERNANDEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009311
+                    [nombre] => FRANCISCO JAVIER
+                    [apellido] => HERNANDEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009904
+                    [nombre] => FREDY
+                    [apellido] => HERNANDEZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009367
+                    [nombre] => JESUS
+                    [apellido] => HERNANDEZ
+                )
+
+            [5] => Array
+                (
+                    [id] => 10010090
+                    [nombre] => MARTIN
+                    [apellido] => HERNANDEZ
+                )
+
+            [6] => Array
+                (
+                    [id] => 10009370
+                    [nombre] => MARTIN JESUS
+                    [apellido] => HERNANDEZ
+                )
+
+            [7] => Array
+                (
+                    [id] => 10009697
+                    [nombre] => MIGUEL  ANGEL
+                    [apellido] => HERNANDEZ
+                )
+
+            [8] => Array
+                (
+                    [id] => 10009484
+                    [nombre] => PABLO  PRUDENCIO
+                    [apellido] => HERNANDEZ
+                )
+
+            [9] => Array
+                (
+                    [id] => 10009620
+                    [nombre] => RICARDO
+                    [apellido] => HERNANDEZ
+                )
+
+        )
+
+    [MARTINEZ] => Array
+        (
+            [counter] => 10
+            [0] => Array
+                (
+                    [id] => 10009377
+                    [nombre] => 	BERTHA   JOSEFINA
+                    [apellido] => MARTINEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009317
+                    [nombre] => DIEGO CESAR
+                    [apellido] => MARTINEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009486
+                    [nombre] => EDGAR  EDUARDO
+                    [apellido] => MARTINEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009469
+                    [nombre] => ELADIO
+                    [apellido] => MARTINEZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10010018
+                    [nombre] => ERIK ALBERTO
+                    [apellido] => MARTINEZ
+                )
+
+            [5] => Array
+                (
+                    [id] => 10009421
+                    [nombre] => EYMARD
+                    [apellido] => MARTINEZ
+                )
+
+            [6] => Array
+                (
+                    [id] => 10009906
+                    [nombre] => GERARDO
+                    [apellido] => MARTINEZ
+                )
+
+            [7] => Array
+                (
+                    [id] => 10009910
+                    [nombre] => LUIS IGNACIO
+                    [apellido] => MARTINEZ
+                )
+
+            [8] => Array
+                (
+                    [id] => 10009293
+                    [nombre] => SILVERIO
+                    [apellido] => MARTINEZ
+                )
+
+            [9] => Array
+                (
+                    [id] => 10009355
+                    [nombre] => VERONICA RUBI
+                    [apellido] => MARTINEZ
+                )
+
+        )
+
+    [RAMIREZ] => Array
+        (
+            [counter] => 7
+            [0] => Array
+                (
+                    [id] => 10009291
+                    [nombre] => JERONIMO
+                    [apellido] => RAMIREZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009788
+                    [nombre] => JOSE  ISRAEL
+                    [apellido] => RAMIREZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009832
+                    [nombre] => MARCO ARTURO
+                    [apellido] => RAMIREZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009354
+                    [nombre] => RICARDO
+                    [apellido] => RAMIREZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009425
+                    [nombre] => RICARDO  ARTURO
+                    [apellido] => RAMIREZ
+                )
+
+            [5] => Array
+                (
+                    [id] => 10009289
+                    [nombre] => SERGIO BENITO
+                    [apellido] => RAMIREZ
+                )
+
+            [6] => Array
+                (
+                    [id] => 10009929
+                    [nombre] => XICOTENCATL ALFONSO
+                    [apellido] => RAMIREZ
+                )
+
+        )
+
+    [RODRIGUEZ] => Array
+        (
+            [counter] => 6
+            [0] => Array
+                (
+                    [id] => 10009912
+                    [nombre] => JORGE ALBERTO
+                    [apellido] => RODRIGUEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10010009
+                    [nombre] => JUAN FRANCISCO
+                    [apellido] => RODRIGUEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10010013
+                    [nombre] => MARCO ANTONIO
+                    [apellido] => RODRIGUEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009465
+                    [nombre] => MARIO  ALBERTO
+                    [apellido] => RODRIGUEZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10008961
+                    [nombre] => MARTHA 
+                    [apellido] => RODRIGUEZ
+                )
+
+            [5] => Array
+                (
+                    [id] => 10009362
+                    [nombre] => MIGUEL  FRANCISCO
+                    [apellido] => RODRIGUEZ
+                )
+
+        )
+
+    [SANCHEZ] => Array
+        (
+            [counter] => 6
+            [0] => Array
+                (
+                    [id] => 10009852
+                    [nombre] => ALFONSO
+                    [apellido] => SANCHEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009260
+                    [nombre] => ARRIETA ANDRES
+                    [apellido] => SANCHEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009564
+                    [nombre] => 	CARLOS  RICARDO
+                    [apellido] => SANCHEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009659
+                    [nombre] => JULIO  CESAR
+                    [apellido] => SANCHEZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009379
+                    [nombre] => MICHEL ALEJANDRO
+                    [apellido] => SANCHEZ
+                )
+
+            [5] => Array
+                (
+                    [id] => 10010000
+                    [nombre] => RODRIGO ALDEBARAN
+                    [apellido] => SANCHEZ
+                )
+
+        )
+
+    [GARCIA] => Array
+        (
+            [counter] => 6
+            [0] => Array
+                (
+                    [id] => 10009339
+                    [nombre] => HORTENSIA
+                    [apellido] => GARCIA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009513
+                    [nombre] => LEONARDO
+                    [apellido] => GARCIA
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009642
+                    [nombre] => MIGUEL  ANGEL
+                    [apellido] => GARCIA
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009680
+                    [nombre] => OTILIO
+                    [apellido] => GARCIA
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009386
+                    [nombre] => RAUL
+                    [apellido] => GARCIA
+                )
+
+            [5] => Array
+                (
+                    [id] => 10009424
+                    [nombre] => RICARDO OMAR
+                    [apellido] => GARCIA
+                )
+
+        )
+
+    [JIMENEZ] => Array
+        (
+            [counter] => 5
+            [0] => Array
+                (
+                    [id] => 10010035
+                    [nombre] => ABEL
+                    [apellido] => JIMENEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009613
+                    [nombre] => FABIAN  GENOVEVO
+                    [apellido] => JIMENEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10010101
+                    [nombre] => HECTOR EDUARDO
+                    [apellido] => JIMENEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009341
+                    [nombre] => JAVIER ALEJANDRO
+                    [apellido] => JIMENEZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009921
+                    [nombre] => LUIS MANUEL
+                    [apellido] => JIMENEZ
+                )
+
+        )
+
+    [LOPEZ] => Array
+        (
+            [counter] => 5
+            [0] => Array
+                (
+                    [id] => 10009441
+                    [nombre] => DAYBER
+                    [apellido] => LOPEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009313
+                    [nombre] => EDWIN
+                    [apellido] => LOPEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009665
+                    [nombre] => GERMAN
+                    [apellido] => LOPEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009925
+                    [nombre] => HORACIO
+                    [apellido] => LOPEZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10010069
+                    [nombre] => MARIA JOSE
+                    [apellido] => LOPEZ
+                )
+
+        )
+
+    [TORRES] => Array
+        (
+            [counter] => 5
+            [0] => Array
+                (
+                    [id] => 10009415
+                    [nombre] => 	BRENDA
+                    [apellido] => TORRES
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009433
+                    [nombre] => CRISTHIAN  DANIEL
+                    [apellido] => TORRES
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009287
+                    [nombre] => FIDEL
+                    [apellido] => TORRES
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009365
+                    [nombre] => LUIS  FERNANDO
+                    [apellido] => TORRES
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009602
+                    [nombre] => MARTIN  ARMANDO
+                    [apellido] => TORRES
+                )
+
+        )
+
+    [PEREZ] => Array
+        (
+            [counter] => 5
+            [0] => Array
+                (
+                    [id] => 10009358
+                    [nombre] => 	AZALEA
+                    [apellido] => PEREZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009494
+                    [nombre] => JORGE  LUIS
+                    [apellido] => PEREZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009307
+                    [nombre] => MAURICIO ABRAHAM
+                    [apellido] => PEREZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009768
+                    [nombre] => MOISES
+                    [apellido] => PEREZ
+                )
+
+            [4] => Array
+                (
+                    [id] => 10009682
+                    [nombre] => URIEL
+                    [apellido] => PEREZ
+                )
+
+        )
+
+    [GONZALEZ] => Array
+        (
+            [counter] => 4
+            [0] => Array
+                (
+                    [id] => 10009324
+                    [nombre] => JUAN RAUL
+                    [apellido] => GONZALEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009422
+                    [nombre] => MARTHA MARIA
+                    [apellido] => GONZALEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009810
+                    [nombre] => NICOLAS  GIUSEPPE
+                    [apellido] => GONZALEZ
+                )
+
+            [3] => Array
+                (
+                    [id] => 10009978
+                    [nombre] => REYNALDO VALDEMAR
+                    [apellido] => GONZALEZ
+                )
+
+        )
+
+    [CONTRERAS] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10010012
+                    [nombre] => JESUS
+                    [apellido] => CONTRERAS
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009920
+                    [nombre] => JUAN DAMIAN
+                    [apellido] => CONTRERAS
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009388
+                    [nombre] => MICHELLE
+                    [apellido] => CONTRERAS
+                )
+
+        )
+
+    [HERRERA] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009989
+                    [nombre] => ARMANDO
+                    [apellido] => HERRERA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009338
+                    [nombre] => MARIO ALBERTO
+                    [apellido] => HERRERA
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009318
+                    [nombre] => RAFAEL AUGUSTO
+                    [apellido] => HERRERA
+                )
+
+        )
+
+    [DIAZ] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009966
+                    [nombre] => CARLOS JHOAN
+                    [apellido] => DIAZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10010128
+                    [nombre] => FERNANDO
+                    [apellido] => DIAZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009329
+                    [nombre] => JOSE MANUEL
+                    [apellido] => DIAZ
+                )
+
+        )
+
+    [DOMINGUEZ] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009796
+                    [nombre] => AMADO
+                    [apellido] => DOMINGUEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10010023
+                    [nombre] => MARIA DEL ROSARIO
+                    [apellido] => DOMINGUEZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009368
+                    [nombre] => YADIRA
+                    [apellido] => DOMINGUEZ
+                )
+
+        )
+
+    [DE LA FUENTE] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009605
+                    [nombre] => DANIEL
+                    [apellido] => DE LA FUENTE
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009418
+                    [nombre] => DANIEL  ALEJANDRO
+                    [apellido] => DE LA FUENTE
+                )
+
+            [2] => Array
+                (
+                    [id] => 10010027
+                    [nombre] => JUAN RAMON
+                    [apellido] => DE LA FUENTE
+                )
+
+        )
+
+    [SILVA] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009557
+                    [nombre] => DAVID  CELESTINO
+                    [apellido] => SILVA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009297
+                    [nombre] => ERNESTO
+                    [apellido] => SILVA
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009836
+                    [nombre] => JESUS LEOBARDO
+                    [apellido] => SILVA
+                )
+
+        )
+
+    [ORTIZ] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009499
+                    [nombre] => EVELIO
+                    [apellido] => ORTIZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009282
+                    [nombre] => GUADALUPE
+                    [apellido] => ORTIZ
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009830
+                    [nombre] => PEDRO
+                    [apellido] => ORTIZ
+                )
+
+        )
+
+    [RIVERA] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009439
+                    [nombre] => 	BASILIO
+                    [apellido] => RIVERA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009861
+                    [nombre] => ERNESTO
+                    [apellido] => RIVERA
+                )
+
+            [2] => Array
+                (
+                    [id] => 10009834
+                    [nombre] => JOSE EMILIO
+                    [apellido] => RIVERA
+                )
+
+        )
+
+    [MORALES] => Array
+        (
+            [counter] => 3
+            [0] => Array
+                (
+                    [id] => 10009294
+                    [nombre] => HECTOR EDUARDO
+                    [apellido] => MORALES
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009378
+                    [nombre] => JOEL
+                    [apellido] => MORALES
+                )
+
+            [2] => Array
+                (
+                    [id] => 10004112
+                    [nombre] => JOSE MANUEL
+                    [apellido] => MORALES
+                )
+
+        )
+
+    [ORTEGA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009999
+                    [nombre] => JOSE ALFREDO
+                    [apellido] => ORTEGA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10010109
+                    [nombre] => JOSE ANGEL
+                    [apellido] => ORTEGA
+                )
+
+        )
+
+    [CAMPOS] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009974
+                    [nombre] => JORGE ARMANDO
+                    [apellido] => CAMPOS
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009712
+                    [nombre] => JUAN  PABLO
+                    [apellido] => CAMPOS
+                )
+
+        )
+
+    [ACOSTA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009945
+                    [nombre] => CARLOS BERSAIN
+                    [apellido] => ACOSTA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009818
+                    [nombre] => HECTOR
+                    [apellido] => ACOSTA
+                )
+
+        )
+
+    [ALEJANDRO] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009923
+                    [nombre] => JAVIER
+                    [apellido] => ALEJANDRO
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009299
+                    [nombre] => SEBASTIAN
+                    [apellido] => ALEJANDRO
+                )
+
+        )
+
+    [GAMEZ] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009872
+                    [nombre] => ALVARO
+                    [apellido] => GAMEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009259
+                    [nombre] => MIGUEL GABRIEL
+                    [apellido] => GAMEZ
+                )
+
+        )
+
+    [PENA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009869
+                    [nombre] => DAVID ANTONIO
+                    [apellido] => PENA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009831
+                    [nombre] => MAURICIO
+                    [apellido] => PENA
+                )
+
+        )
+
+    [CISNEROS] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009860
+                    [nombre] => ERICK
+                    [apellido] => CISNEROS
+                )
+
+            [1] => Array
+                (
+                    [id] => 10010028
+                    [nombre] => JOSE DANIEL
+                    [apellido] => CISNEROS
+                )
+
+        )
+
+    [ZAPATA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009790
+                    [nombre] => ROBERTO
+                    [apellido] => ZAPATA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009957
+                    [nombre] => SERGIO
+                    [apellido] => ZAPATA
+                )
+
+        )
+
+    [BARRAGAN] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009732
+                    [nombre] => FERNANDO
+                    [apellido] => BARRAGAN
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009523
+                    [nombre] => MARCO ANTONIO
+                    [apellido] => BARRAGAN
+                )
+
+        )
+
+    [MENDOZA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009664
+                    [nombre] => HECTOR  ALEJANDRO
+                    [apellido] => MENDOZA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009595
+                    [nombre] => RAUL
+                    [apellido] => MENDOZA
+                )
+
+        )
+
+    [SANTOS] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009648
+                    [nombre] => RENE
+                    [apellido] => SANTOS
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009410
+                    [nombre] => ZAIRA MARIBETH
+                    [apellido] => SANTOS
+                )
+
+        )
+
+    [ANAYA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009647
+                    [nombre] => EULISES
+                    [apellido] => ANAYA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009438
+                    [nombre] => JUAN  PABLO
+                    [apellido] => ANAYA
+                )
+
+        )
+
+    [GOMEZ] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009590
+                    [nombre] => LORENZO DE JESUS
+                    [apellido] => GOMEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009850
+                    [nombre] => RODOLFO
+                    [apellido] => GOMEZ
+                )
+
+        )
+
+    [TEOBA] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009496
+                    [nombre] => FLAVIO
+                    [apellido] => TEOBA
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009741
+                    [nombre] => SANTIAGO
+                    [apellido] => TEOBA
+                )
+
+        )
+
+    [BASANEZ] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009419
+                    [nombre] => ALAN  EDUARDO
+                    [apellido] => BASANEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009823
+                    [nombre] => ALONSO
+                    [apellido] => BASANEZ
+                )
+
+        )
+
+    [ALVAREZ] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009391
+                    [nombre] => LEOVARDO
+                    [apellido] => ALVAREZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009555
+                    [nombre] => OMAR  FRANCISCO
+                    [apellido] => ALVAREZ
+                )
+
+        )
+
+    [TREJO] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009382
+                    [nombre] => EDY  EMANUEL
+                    [apellido] => TREJO
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009310
+                    [nombre] => JORGE
+                    [apellido] => TREJO
+                )
+
+        )
+
+    [CHAVEZ] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009380
+                    [nombre] => DAVID
+                    [apellido] => CHAVEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009864
+                    [nombre] => ROMAN
+                    [apellido] => CHAVEZ
+                )
+
+        )
+
+    [LEAL] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009352
+                    [nombre] => HOMAR DARIO
+                    [apellido] => LEAL
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009953
+                    [nombre] => JOSE EDUARDO
+                    [apellido] => LEAL
+                )
+
+        )
+
+    [RIVAS] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009350
+                    [nombre] => CUAUHTEMOC HORACIO
+                    [apellido] => RIVAS
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009363
+                    [nombre] => ZULEYMA  DE JESUS
+                    [apellido] => RIVAS
+                )
+
+        )
+
+    [GUZMAN] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009309
+                    [nombre] => JOSE LUIS
+                    [apellido] => GUZMAN
+                )
+
+            [1] => Array
+                (
+                    [id] => 10010033
+                    [nombre] => MANUEL
+                    [apellido] => GUZMAN
+                )
+
+        )
+
+    [FERNANDEZ] => Array
+        (
+            [counter] => 2
+            [0] => Array
+                (
+                    [id] => 10009258
+                    [nombre] => JOSE ALFREDO
+                    [apellido] => FERNANDEZ
+                )
+
+            [1] => Array
+                (
+                    [id] => 10009477
+                    [nombre] => RICARDO
+                    [apellido] => FERNANDEZ
+                )
+
+        )
+
+    [LOMELLO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010161
+                    [nombre] => SANTIAGO  GUSTAVO
+                    [apellido] => LOMELLO
+                )
+
+        )
+
+    [MORENO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010145
+                    [nombre] => MARCO ANTONIO
+                    [apellido] => MORENO
+                )
+
+        )
+
+    [INIGUEZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010144
+                    [nombre] => RAFAEL
+                    [apellido] => INIGUEZ
+                )
+
+        )
+
+    [CERVANTES] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010118
+                    [nombre] => CARLOS
+                    [apellido] => CERVANTES
+                )
+
+        )
+
+    [AVILA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010116
+                    [nombre] => MARCO POLO
+                    [apellido] => AVILA
+                )
+
+        )
+
+    [MARCIAL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010076
+                    [nombre] => NICOLAS
+                    [apellido] => MARCIAL
+                )
+
+        )
+
+    [PALACIOS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010070
+                    [nombre] => CYNTHIA DEL CARMEN
+                    [apellido] => PALACIOS
+                )
+
+        )
+
+    [SEGURA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010065
+                    [nombre] => 	CARLOS ALBERTO
+                    [apellido] => SEGURA
+                )
+
+        )
+
+    [LUGO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010046
+                    [nombre] => FERNANDO ALBERTO
+                    [apellido] => LUGO
+                )
+
+        )
+
+    [DURAN] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010045
+                    [nombre] => J JESUS
+                    [apellido] => DURAN
+                )
+
+        )
+
+    [ALDAN] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010022
+                    [nombre] => HECTOR
+                    [apellido] => ALDAN
+                )
+
+        )
+
+    [LARA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010020
+                    [nombre] => RICARDO
+                    [apellido] => LARA
+                )
+
+        )
+
+    [PAEZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010016
+                    [nombre] => VICTOR HUGO
+                    [apellido] => PAEZ
+                )
+
+        )
+
+    [VAZQUEZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010015
+                    [nombre] => ISAAC
+                    [apellido] => VAZQUEZ
+                )
+
+        )
+
+    [PEREIRA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010008
+                    [nombre] => DANIEL
+                    [apellido] => PEREIRA
+                )
+
+        )
+
+    [DE PAU] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010007
+                    [nombre] => MANUEL JESUS
+                    [apellido] => DE PAU
+                )
+
+        )
+
+    [TORRECILLA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10010001
+                    [nombre] => ALEJANDRO RENE
+                    [apellido] => TORRECILLA
+                )
+
+        )
+
+    [ACUA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009991
+                    [nombre] => JORGE ALBERTO
+                    [apellido] => ACUA
+                )
+
+        )
+
+    [ALFARO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009986
+                    [nombre] => JONATHAN
+                    [apellido] => ALFARO
+                )
+
+        )
+
+    [ALMEIDA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009980
+                    [nombre] => CLAUDIO
+                    [apellido] => ALMEIDA
+                )
+
+        )
+
+    [URQUIZA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009979
+                    [nombre] => ELISEO
+                    [apellido] => URQUIZA
+                )
+
+        )
+
+    [CARLEBACHE] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009962
+                    [nombre] => IVONNE
+                    [apellido] => CARLEBACHE
+                )
+
+        )
+
+    [BERISTAIN] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009956
+                    [nombre] => NANCY
+                    [apellido] => BERISTAIN
+                )
+
+        )
+
+    [PESTANA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009955
+                    [nombre] => MAURICIO
+                    [apellido] => PESTANA
+                )
+
+        )
+
+    [ARTEAGA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009954
+                    [nombre] => JESUS
+                    [apellido] => ARTEAGA
+                )
+
+        )
+
+    [ITURBE] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009950
+                    [nombre] => JULIO CESAR
+                    [apellido] => ITURBE
+                )
+
+        )
+
+    [MISS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009949
+                    [nombre] => RAFAEL
+                    [apellido] => MISS
+                )
+
+        )
+
+    [VILLASANA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009936
+                    [nombre] => WALDO
+                    [apellido] => VILLASANA
+                )
+
+        )
+
+    [REYES] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009927
+                    [nombre] => LAZARO EDUARDO
+                    [apellido] => REYES
+                )
+
+        )
+
+    [ZAMORANO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009926
+                    [nombre] => FRANCISCO
+                    [apellido] => ZAMORANO
+                )
+
+        )
+
+    [AGUILAR] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009919
+                    [nombre] => JOSE FRANCISCO
+                    [apellido] => AGUILAR
+                )
+
+        )
+
+    [VERA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009895
+                    [nombre] => CUAUHTEMOC
+                    [apellido] => VERA
+                )
+
+        )
+
+    [BURGUENO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009890
+                    [nombre] => MIGUEL ANGEL
+                    [apellido] => BURGUENO
+                )
+
+        )
+
+    [CAMPOY] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009871
+                    [nombre] => 	CARLOS ADOLFO
+                    [apellido] => CAMPOY
+                )
+
+        )
+
+    [LEON] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009851
+                    [nombre] => ISRAEL
+                    [apellido] => LEON
+                )
+
+        )
+
+    [TRUJILLO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009839
+                    [nombre] => JAVIER ALFONSO
+                    [apellido] => TRUJILLO
+                )
+
+        )
+
+    [TIZNADO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009837
+                    [nombre] => ALBINO
+                    [apellido] => TIZNADO
+                )
+
+        )
+
+    [REYNA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009833
+                    [nombre] => RAFAEL
+                    [apellido] => REYNA
+                )
+
+        )
+
+    [MUNOZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009829
+                    [nombre] => GUILLERMO
+                    [apellido] => MUNOZ
+                )
+
+        )
+
+    [MELO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009828
+                    [nombre] => GIL
+                    [apellido] => MELO
+                )
+
+        )
+
+    [GUTIERREZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009827
+                    [nombre] => JOSE ANTONIO
+                    [apellido] => GUTIERREZ
+                )
+
+        )
+
+    [CANTU] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009825
+                    [nombre] => MARCO ANTONIO
+                    [apellido] => CANTU
+                )
+
+        )
+
+    [BRANA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009824
+                    [nombre] => ARTURO
+                    [apellido] => BRANA
+                )
+
+        )
+
+    [CANCHE] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009822
+                    [nombre] => MAYRA ANGELICA
+                    [apellido] => CANCHE
+                )
+
+        )
+
+    [ZAYAGO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009801
+                    [nombre] => LUIS  MANUEL
+                    [apellido] => ZAYAGO
+                )
+
+        )
+
+    [RONZON] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009789
+                    [nombre] => SERGIO
+                    [apellido] => RONZON
+                )
+
+        )
+
+    [MARROQUIN] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009784
+                    [nombre] => 	CARLOS
+                    [apellido] => MARROQUIN
+                )
+
+        )
+
+    [CASANGO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009783
+                    [nombre] => JOSE  ANGEL
+                    [apellido] => CASANGO
+                )
+
+        )
+
+    [BENITEZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009781
+                    [nombre] => ARBEY
+                    [apellido] => BENITEZ
+                )
+
+        )
+
+    [BALTAZAR] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009770
+                    [nombre] => ALBERTO
+                    [apellido] => BALTAZAR
+                )
+
+        )
+
+    [ARANDA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009764
+                    [nombre] => IGNACIO
+                    [apellido] => ARANDA
+                )
+
+        )
+
+    [IBARRA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009725
+                    [nombre] => ABRAHAM  LEONARDO
+                    [apellido] => IBARRA
+                )
+
+        )
+
+    [PARTIDA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009723
+                    [nombre] => FREDY
+                    [apellido] => PARTIDA
+                )
+
+        )
+
+    [TAMARIZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009721
+                    [nombre] => SABINO
+                    [apellido] => TAMARIZ
+                )
+
+        )
+
+    [TENORIO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009709
+                    [nombre] => FRANCISCO  JAVIER
+                    [apellido] => TENORIO
+                )
+
+        )
+
+    [BURGOS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009702
+                    [nombre] => GEOVANY  DAGER
+                    [apellido] => BURGOS
+                )
+
+        )
+
+    [ZUMAYA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009695
+                    [nombre] => 	AURELIO
+                    [apellido] => ZUMAYA
+                )
+
+        )
+
+    [ROMA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009693
+                    [nombre] => RICARDO
+                    [apellido] => ROMA
+                )
+
+        )
+
+    [MILLAN] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009690
+                    [nombre] => WINSTON  JAVIER
+                    [apellido] => MILLAN
+                )
+
+        )
+
+    [DEL CARMEN	RIVERO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009675
+                    [nombre] => ROSELYN D
+                    [apellido] => DEL CARMEN	RIVERO
+                )
+
+        )
+
+    [DE LA CRUZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009661
+                    [nombre] => ROBERTH
+                    [apellido] => DE LA CRUZ
+                )
+
+        )
+
+    [LINDO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009658
+                    [nombre] => SERGIO
+                    [apellido] => LINDO
+                )
+
+        )
+
+    [GARRIDO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009649
+                    [nombre] => MAURILIO
+                    [apellido] => GARRIDO
+                )
+
+        )
+
+    [VELASCO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009646
+                    [nombre] => CHRISTIAN  OMAR
+                    [apellido] => VELASCO
+                )
+
+        )
+
+    [MORA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009622
+                    [nombre] => JOSE  ANTONIO
+                    [apellido] => MORA
+                )
+
+        )
+
+    [CAMARA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009621
+                    [nombre] => ULISES
+                    [apellido] => CAMARA
+                )
+
+        )
+
+    [PONCE] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009608
+                    [nombre] => EFRAIN
+                    [apellido] => PONCE
+                )
+
+        )
+
+    [AK] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009607
+                    [nombre] => JORGE  ALBERTO
+                    [apellido] => AK
+                )
+
+        )
+
+    [BARRIENTOS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009604
+                    [nombre] => ANTONIO
+                    [apellido] => BARRIENTOS
+                )
+
+        )
+
+    [BALDERAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009601
+                    [nombre] => JORGE  ALBERTO
+                    [apellido] => BALDERAS
+                )
+
+        )
+
+    [LEYVA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009600
+                    [nombre] => ELIUD
+                    [apellido] => LEYVA
+                )
+
+        )
+
+    [BONFIL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009599
+                    [nombre] => FERNANDO  ALBERTO
+                    [apellido] => BONFIL
+                )
+
+        )
+
+    [ESQUIVEL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009598
+                    [nombre] => JAVIER
+                    [apellido] => ESQUIVEL
+                )
+
+        )
+
+    [RICARDEZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009594
+                    [nombre] => HEVER
+                    [apellido] => RICARDEZ
+                )
+
+        )
+
+    [NAVARRETE] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009593
+                    [nombre] => MAXIMILIANO
+                    [apellido] => NAVARRETE
+                )
+
+        )
+
+    [CUEVAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009552
+                    [nombre] => URIEL
+                    [apellido] => CUEVAS
+                )
+
+        )
+
+    [ARIAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009548
+                    [nombre] => CESAR
+                    [apellido] => ARIAS
+                )
+
+        )
+
+    [BALAN] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009533
+                    [nombre] => CELSO  RICARDO
+                    [apellido] => BALAN
+                )
+
+        )
+
+    [AHUMADA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009518
+                    [nombre] => JUAN  MANUEL
+                    [apellido] => AHUMADA
+                )
+
+        )
+
+    [PORTUGAL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009498
+                    [nombre] => CESAR  LUIS
+                    [apellido] => PORTUGAL
+                )
+
+        )
+
+    [ESTRADA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009497
+                    [nombre] => GUSTAVO
+                    [apellido] => ESTRADA
+                )
+
+        )
+
+    [ROSAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009495
+                    [nombre] => JESUS  RODRIGO
+                    [apellido] => ROSAS
+                )
+
+        )
+
+    [SAUCEDO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009481
+                    [nombre] => MANUEL  JONATHAN
+                    [apellido] => SAUCEDO
+                )
+
+        )
+
+    [CANUL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009478
+                    [nombre] => MANUEL  VICENTE
+                    [apellido] => CANUL
+                )
+
+        )
+
+    [LANDA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009476
+                    [nombre] => JOSE  LUIS
+                    [apellido] => LANDA
+                )
+
+        )
+
+    [NIEMBRO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009463
+                    [nombre] => CARLOS CANDIDO
+                    [apellido] => NIEMBRO
+                )
+
+        )
+
+    [ESPINDOLA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009454
+                    [nombre] => NASHELLY ISABEL
+                    [apellido] => ESPINDOLA
+                )
+
+        )
+
+    [DECUIR] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009453
+                    [nombre] => ROBERTO CARLOS
+                    [apellido] => DECUIR
+                )
+
+        )
+
+    [VALENCIA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009448
+                    [nombre] => JESUS  DELFINO
+                    [apellido] => VALENCIA
+                )
+
+        )
+
+    [CRUZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009429
+                    [nombre] => DAVID  ALEJANDRO
+                    [apellido] => CRUZ
+                )
+
+        )
+
+    [VALDES] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009423
+                    [nombre] => ESMERALDA
+                    [apellido] => VALDES
+                )
+
+        )
+
+    [GARZA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009417
+                    [nombre] => CECILIA
+                    [apellido] => GARZA
+                )
+
+        )
+
+    [REJON] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009408
+                    [nombre] => SERGIO  DE JESUS
+                    [apellido] => REJON
+                )
+
+        )
+
+    [SALAZAR] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009404
+                    [nombre] => MARLENE ELIZABETH
+                    [apellido] => SALAZAR
+                )
+
+        )
+
+    [CARAVEO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009402
+                    [nombre] => CRHISTHOPER
+                    [apellido] => CARAVEO
+                )
+
+        )
+
+    [RUIZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009399
+                    [nombre] => HECTOR ARTURO
+                    [apellido] => RUIZ
+                )
+
+        )
+
+    [MAGANA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009398
+                    [nombre] => ALMA  BEATRIZ
+                    [apellido] => MAGANA
+                )
+
+        )
+
+    [OLIVEROS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009395
+                    [nombre] => HEIDY
+                    [apellido] => OLIVEROS
+                )
+
+        )
+
+    [PANTOJA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009393
+                    [nombre] => AMAIRANY DE JESUS
+                    [apellido] => PANTOJA
+                )
+
+        )
+
+    [CERVERA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009392
+                    [nombre] => ALDO
+                    [apellido] => CERVERA
+                )
+
+        )
+
+    [CORDOVA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009389
+                    [nombre] => CESAR  MANUEL
+                    [apellido] => CORDOVA
+                )
+
+        )
+
+    [OCAMPO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009385
+                    [nombre] => RENE  GERMAN
+                    [apellido] => OCAMPO
+                )
+
+        )
+
+    [ARREDONDO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009381
+                    [nombre] => NAZARIO
+                    [apellido] => ARREDONDO
+                )
+
+        )
+
+    [DEL CARMEN MENDOZA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009376
+                    [nombre] => NATALIA 
+                    [apellido] => DEL CARMEN MENDOZA
+                )
+
+        )
+
+    [SANTACRUZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009374
+                    [nombre] => ALMA NYDIA
+                    [apellido] => SANTACRUZ
+                )
+
+        )
+
+    [SECCHY] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009369
+                    [nombre] => EDGAR
+                    [apellido] => SECCHY
+                )
+
+        )
+
+    [SOLIS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009364
+                    [nombre] => SELENE ETHEL
+                    [apellido] => SOLIS
+                )
+
+        )
+
+    [BERNAL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009361
+                    [nombre] => JOSE RAUL
+                    [apellido] => BERNAL
+                )
+
+        )
+
+    [DEL ANGEL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009348
+                    [nombre] => VICTOR ALFREDO
+                    [apellido] => DEL ANGEL
+                )
+
+        )
+
+    [GARMENDIA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009347
+                    [nombre] => ORLANDO
+                    [apellido] => GARMENDIA
+                )
+
+        )
+
+    [BALLINAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009346
+                    [nombre] => SERGIO DE JESUS
+                    [apellido] => BALLINAS
+                )
+
+        )
+
+    [CASTILLO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009344
+                    [nombre] => RICARDO
+                    [apellido] => CASTILLO
+                )
+
+        )
+
+    [SALAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009342
+                    [nombre] => MARIO EDUARDO
+                    [apellido] => SALAS
+                )
+
+        )
+
+    [RIOS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009340
+                    [nombre] => JUAN LUIS
+                    [apellido] => RIOS
+                )
+
+        )
+
+    [CARRILLO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009337
+                    [nombre] => JUAN PABLO
+                    [apellido] => CARRILLO
+                )
+
+        )
+
+    [ARANGUA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009332
+                    [nombre] => DAISY SAMANTHA
+                    [apellido] => ARANGUA
+                )
+
+        )
+
+    [PINO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009328
+                    [nombre] => ARTURO
+                    [apellido] => PINO
+                )
+
+        )
+
+    [MONTOYA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009321
+                    [nombre] => MAURILIO
+                    [apellido] => MONTOYA
+                )
+
+        )
+
+    [VELANDIA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009319
+                    [nombre] => JUAN GABRIEL
+                    [apellido] => VELANDIA
+                )
+
+        )
+
+    [SERAPIO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009316
+                    [nombre] => DIONICIO
+                    [apellido] => SERAPIO
+                )
+
+        )
+
+    [AGUIRRE] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009315
+                    [nombre] => WILLIAM
+                    [apellido] => AGUIRRE
+                )
+
+        )
+
+    [ZACARIAS] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009314
+                    [nombre] => MIGUEL ANGEL
+                    [apellido] => ZACARIAS
+                )
+
+        )
+
+    [SOUZA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009312
+                    [nombre] => DAVID ROBERTO
+                    [apellido] => SOUZA
+                )
+
+        )
+
+    [AVENDANO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009308
+                    [nombre] => DAVID
+                    [apellido] => AVENDANO
+                )
+
+        )
+
+    [TOLEDO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009295
+                    [nombre] => MANUEL REYES
+                    [apellido] => TOLEDO
+                )
+
+        )
+
+    [CARRIZALES] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009292
+                    [nombre] => ANDRES
+                    [apellido] => CARRIZALES
+                )
+
+        )
+
+    [SANDOVAL] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009290
+                    [nombre] => ANGEL RICARDO
+                    [apellido] => SANDOVAL
+                )
+
+        )
+
+    [ROBLEDO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009283
+                    [nombre] => JUAN FERNANDO
+                    [apellido] => ROBLEDO
+                )
+
+        )
+
+    [MIRANDA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009278
+                    [nombre] => JACOBO
+                    [apellido] => MIRANDA
+                )
+
+        )
+
+    [MONTALVO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009272
+                    [nombre] => JUAN CARLOS
+                    [apellido] => MONTALVO
+                )
+
+        )
+
+    [MEJIA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009271
+                    [nombre] => JOSE EMILIO
+                    [apellido] => MEJIA
+                )
+
+        )
+
+    [RICO] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009262
+                    [nombre] => VICTOR MANUEL
+                    [apellido] => RICO
+                )
+
+        )
+
+    [MENDEZ] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009255
+                    [nombre] => CARLOS ALBERTO
+                    [apellido] => MENDEZ
+                )
+
+        )
+
+    [FONSECA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10009232
+                    [nombre] => ANGELICA
+                    [apellido] => FONSECA
+                )
+
+        )
+
+    [TAPIA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10003566
+                    [nombre] => JUAN MANUEL
+                    [apellido] => TAPIA
+                )
+
+        )
+
+    [AYALA] => Array
+        (
+            [counter] => 1
+            [0] => Array
+                (
+                    [id] => 10001001
+                    [nombre] => JORGE ERNESTO
+                    [apellido] => AYALA
+                )
+
+        )
+
+)
