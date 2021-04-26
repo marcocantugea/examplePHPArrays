@@ -30,9 +30,12 @@ function searchNombre(string $nombreabuscar){
         if($posFound!==false){
             $fixedName=str_replace(" ","|",$nombre);
             $arrayName=explode("|",$fixedName);
-            if($arrayName[0]==$nombreabuscar){
-                $nombresEncontrados[]=$nombre;
+            foreach($arrayName as $names){
+                if($names==$nombreabuscar){
+                    $nombresEncontrados[]=$nombre;
+                }
             }
+            
         }else{
             if(trim($nombre)==$nombreabuscar){
                 $nombresEncontrados[]=$nombre;
@@ -45,6 +48,6 @@ function searchNombre(string $nombreabuscar){
  }
 
 echo "-------------------------------------------------".PHP_EOL;
- print_r(searchNombre("sergio"));
+ print_r(searchNombre("carlos"));
 
 ?>
