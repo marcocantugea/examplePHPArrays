@@ -70,4 +70,37 @@ foreach($Apellidos as $apellidos=>$objeto){
     }
 }
 
+echo ' buscar de la lista los cilindros  dublicados con el campo de cilindro de la informacion de ListaCilindrosVerificar'.PHP_EOL;
+/**
+ * buscar de la lista los cilindros  dublicados con el campo de cilindro de la informacion de ListaCilindrosVerificar
+ */
+
+//obtenemos la columna de los cilindros a verificar
+$CilindrosVerificar=array_column(ListaCilindrosVerificar,"cilindro");
+
+//revisamos si exista mas de n veces
+$ContadorDeCilindros=array_reduce($CilindrosVerificar,function($retunArray,$item){
+    if(isset($retunArray[$item])){
+        $retunArray[$item]['contador']++;
+    }else{
+        $retunArray[$item]['contador']=1;
+    }
+    return $retunArray;
+});
+
+//filtramos cuales esetan repetidos
+$CilindrosRepetidos=array_filter($ContadorDeCilindros,function($item){
+    return $item['contador']>1;
+});
+
+$DatosCilindros=array_filter(ListaCilindros,function($item) use ($CilindrosRepetidos){
+    return in_array($item['cilindro'],array_keys($CilindrosRepetidos));
+});
+
+echo "cilindro repetidos...".PHP_EOL;
+// imprimimos los cilindros repetidos
+foreach($DatosCilindros as $cilindro){
+    echo "Cilindro: ".$cilindro["cilindro"]." RadioCm:".$cilindro["RadioCm"]." alturaCm:".$cilindro['alturaCm'].PHP_EOL;
+}
+
 ?>
